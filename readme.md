@@ -9,3 +9,5 @@
 # Changes to be committed:
 #	new file:   README.md
 #
+
+<script src="https://localhost/neuro.sdk.min.js"></script>
